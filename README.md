@@ -1,3 +1,5 @@
+2024-12-13
+
 # super-auto-pets-db
 
 This database website is an un-official guide and reference for the pets, food and stats from the game Super Auto Pets.
